@@ -8,7 +8,7 @@ namespace Customvalidations.Models
 {
     public class Employee
     {
-        //this is my project
+        //this is my projects guys
         [Required]
         public string Name { get; set; }
         [Required]
